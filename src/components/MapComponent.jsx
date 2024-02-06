@@ -56,6 +56,7 @@ const MapComponent = () => {
 			mapRef.current.on("click", handleMapClick);
 		};
 
+		// Handle map click
 		const handleMapClick = (event) => {
 			const location = event.coordinate;
 			const [x, y] = convertCoords(location, EPSG_3785, EPSG_4326);
@@ -88,6 +89,7 @@ const MapComponent = () => {
 		return () => mapRef.current?.setTarget(undefined);
 	}, [iconStyle]);
 
+	// Add point
 	const addPoint = () => {
 		const x = parseFloat(xInputRef.current.value);
 		const y = parseFloat(yInputRef.current.value);
