@@ -5,3 +5,5 @@ Program ini merupakan program sederhana bagaimana cara menggunakan library OpenL
 ### Prasyarat
 
  - NodeJS
+
+### Instalasi
