@@ -8,7 +8,7 @@ Program ini merupakan program sederhana bagaimana cara menggunakan library OpenL
 
 ### Instalasi
 
-Untuk dapat menggunakan OpenLayer, maka diperlukan instalasi library OpenLayer dengan command berikut : 
+Untuk dapat menggunakan OpenLayer, maka diperlukan instalasi library OpenLayer terlebih dahulu dengan perintah berikut : 
 
 ```bash
 npm i ol
