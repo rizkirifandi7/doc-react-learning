@@ -14,7 +14,7 @@ Untuk dapat menggunakan OpenLayer, maka diperlukan instalasi library OpenLayer t
 npm i ol
 ```
 
-### Penjelasan beberapa komponen dari 
+### Penjelasan beberapa komponen dari Open Layer
 
 1. Map (Peta): Komponen inti OpenLayers adalah peta yang dirender ke dalam suatu wadah target, misalnya sebuah elemen div di halaman web. Properti peta dapat dikonfigurasi baik pada saat konstruksi, maupun dengan menggunakan metode setter.
 
