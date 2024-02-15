@@ -18,7 +18,7 @@ npm i ol
 
 1. Map (Peta): Komponen inti OpenLayers adalah peta yang dirender ke dalam suatu wadah target, misalnya sebuah elemen div di halaman web. Properti peta dapat dikonfigurasi baik pada saat konstruksi, maupun dengan menggunakan metode setter.
 
-- Element <div> ini berfungsi sebagai penampung untuk map.
+- Element div ini berfungsi sebagai penampung untuk map.
   
 ```bash
 <div id="map" style="width: 100%; height: 400px"></div>
